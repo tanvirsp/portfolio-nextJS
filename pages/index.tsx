@@ -5,7 +5,7 @@ export default function home() {
   return (
     <>
       <Head>
-        <title>John Carlo Devera | Frontend Developer</title>
+        <title>Mir Raisul Tanvir | MERN Developer</title>
         <link rel="shortcut icon" href="/favicon.png" />
         <meta name="description" content="John Carlo Devera | Frontend Developer" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />

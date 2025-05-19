@@ -13,21 +13,15 @@ export const About = () => {
         <div>
           <Reveal>
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
-              Howdy! I&apos;m John Carlo Devera, and I&apos;m a Bachelor of Science in Information Technology graduate.
+              Howdy! I&apos;m Mir Raisul Tanvir, and I&apos;m a Full stack developer in MERN Technology.
               <br/><br/>
-              I have experience working in both the mobile and web development worlds, with a focus on frontend development. I&apos;m passionate about creating beautiful, responsive websites that provide a great user experience.
+              I have experience working in MERN stack development, with a focus on frontend and backend development. I&apos;m passionate about creating beautiful, responsive websites that provide a great user experience.
              </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              My skills include HTML, CSS, JavaScript, and various frontend frameworks like React and Vue.js. 
-              I&apos;ve also worked with backend technologies like Node.js, Firebase, MongoDB and PHP/Laravel , allowing me to build full-stack applications.
-            </p>
-          </Reveal>
-          <Reveal>
-            <p className={styles.aboutText}>
-              When I&apos;m not coding, I enjoy digital painting. 
-              I believe that maintaining a healthy work-life balance is crucial for staying productive and motivated.
+              My skills include HTML, CSS, JavaScript, and  frontend frameworks like React. 
+              I&apos;ve also worked with backend technologies like Node.js, Firebase, MongoDB, allowing me to build full-stack applications.
             </p>
           </Reveal>
           <Reveal>

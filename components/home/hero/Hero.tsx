@@ -4,7 +4,7 @@ import { StandardButton } from "@/components/buttons/StandardButton";
 import { Reveal } from "@/components/utils/Reveal";
 import { DotGrid } from "./DotGrid";
 import styles from "./hero.module.scss";
-import Profile from "@/public/jc.jpg";
+import Profile from "/public/mir.jpg";
 
 export const Hero = () => {
   return (
@@ -13,12 +13,12 @@ export const Hero = () => {
         <div className={styles.copyWrapper}>
           <Reveal>
             <h1 className={styles.title}>
-              Hi, I&apos;m JC<span>.</span>
+              Hi, I&apos;m Mir Raisul Tanvir<span>.</span>
             </h1>
           </Reveal>
           <Reveal>
             <h2 className={styles.subTitle}>
-              I&apos;m a <span>Frontend Developer</span>
+              I&apos;m a <span>Full Stack Developer (MERN)</span>
             </h2>
           </Reveal>
           <Reveal>
