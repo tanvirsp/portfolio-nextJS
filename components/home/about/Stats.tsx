@@ -35,9 +35,8 @@ export const Stats = () => {
           </h4>
           <div className={styles.statGrid}>
             <span className="chip">Tailwind</span>
+            <span className="chip">Bootstrap</span>
             <span className="chip">Figma</span>
-            <span className="chip">GraphQL</span>
-            <span className="chip">Firebase</span>
             <span className="chip">Vercel</span>
             <span className="chip">Netlify</span>
           </div>
