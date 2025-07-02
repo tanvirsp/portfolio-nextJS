@@ -35,8 +35,8 @@ const projects = [
   {
     title: "GYM Management System",
     imgSrc: "/project-imgs/elancerz.png",
-    code: "https://www.github.com",
-    projectLink: "https://elancerz.com/",
+    code: "https://github.com/tanvirsp/GYM-Management",
+    projectLink: "https://gym.ajkerjamalpur.com",
     tech: ["React", "Bootstrap", "MongoDB", "Mongoose", "ExpressJS","NodeJS"],
     description:
       "This is a GYM Management system application. A gym owner can maintance member payment system with due and advance, trainer monthly salary with advance and due. Overall get report by date range in CSV and XLS format.",
