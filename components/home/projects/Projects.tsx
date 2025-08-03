@@ -49,5 +49,39 @@ const projects = [
       </>
     ),
   },
+  {
+    title: "Restaurant Home Page",
+    imgSrc: "/project-imgs/reataurant.png",
+    code: "https://github.com/tanvirsp/restaurant2024",
+    projectLink: "https://restaurant-a38502.netlify.app/",
+    tech: ["React", "Bootstrap",],
+    description:
+      " This is simple restaurant Home page design.",
+    modalContent: (
+      <>
+        <p>
+         This is simple restaurant Home page design.
+        </p>
+      
+      </>
+    ),
+  },
+  {
+    title: "Design Agency",
+    imgSrc: "/project-imgs/design-agency.png",
+    code: "https://github.com/tanvirsp/designAgency",
+    projectLink: "https://designagency1220147.netlify.app/",
+    tech: ["React", "Bootstrap",],
+    description:
+      " This is simple Design Agency Home page design.",
+    modalContent: (
+      <>
+        <p>
+         This is simple Design Agency Home page design.
+        </p>
+      
+      </>
+    ),
+  },
  
 ];
