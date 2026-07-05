@@ -19,16 +19,7 @@ const experience = [
     time: "June 2022 - Present",
     location: "Remote",
     description:
-      "I am working a Freelancer with MERN stack & WordPress Developer",
-    tech: [
-      
-      "React",
-      "MongoDB",
-      "ExpressJS",
-      "NodeJS",
-      "Mongoose"
-      
-    ],
+      "I am working as a Freelancer with MERN stack & WordPress Developer",
+    tech: ["React", "MongoDB", "ExpressJS", "NodeJS", "Mongoose", "WordPress"],
   },
-
 ];
